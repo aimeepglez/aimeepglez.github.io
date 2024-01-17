@@ -4,7 +4,6 @@ color:darkgreen;
 font-family: Baskerville, serif;
  padding:50px;
 }
-body {
-  background: radial-gradient(at center, #F7C9E7, #911214);
-}
+.element {
+  background: radial-gradient(at center, #F7C9E7, #911214, 50%,
 }
