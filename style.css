@@ -5,5 +5,5 @@ font-family: Baskerville, serif;
  padding:50px;
 }
 .element {
-  background: radial-gradient(at center, #F7C9E7, #911214, 50%,
+  background: radial-gradient(circle, #ff6347, #ffd700);
 }
